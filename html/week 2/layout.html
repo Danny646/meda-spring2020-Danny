@@ -28,25 +28,35 @@ color:lightsteelblue
 
   background-color:maroon;
   color:mediumseagreen;
-height:300px;
+height:425px;
+width:925px;
 border:solid;
 border-radius:65px;
-padding:145px;
+padding-left:0; 12px;
 
 }
+#main div{
+height:100px;
+background-color:darksalmon
+margin-bottom:10px; 
+}
+
 #Food-list{
   list-style-type:none;
 background-color:goldenrod;
 width:500px;
 height:600px;
-
+flex-wrap: wrap-reverse;
 }
-#food-list{
+#food-list li {
+
 display:inline-block;
 background-color:lightsalmon;
 margin:0 20px;
 padding:2px;
 text-align:center;
+color:darkred;
+border-color: yellow;
 }
 
 </style>
@@ -59,11 +69,15 @@ text-align:center;
 <!--HTML5 version is <header></header-->  <div id="header"> 
 <h1> This is the title of the header area.
   <p> This area is the first div</p>
-
+<p> This  is another sentece in this really big div, its hard to fill this div with lots of sentences. It takes a lot of space.  </p> 
 </div>
 <!--HTML 5 version is <main></main>-->
 <div id="main">
 <p>  This area is for the second div</p> 
+<p> This second div is bigger but the text is smaller, so it's going to take a lot more words to fill this really large div.  This div is huge! This text is green as well as the text in the first div is but it's another type of Green.  </p>
+<i>  This sentence is italicized. </i> <i> This is  more italic sentences<b>  This is a double sentence. </i> </b>
+<div> </div>
+<div> </div>
 </div>
 <!--HTML version is <footer> </footer>-->
 <div id= "footer"> 
@@ -86,6 +100,12 @@ text-align:center;
   <li> Veal </li> 
   <li> Kosher </li> 
 </ul>
+
+<div id="videos">
+<iframe width="200"height="145"
+src="https://www.youtube.com/embed/04iGNXsqghs" frameborder="10"
+allow="acclerometer;autoplay;encrypted-media;gyroscope
+picture-inpicture"allowfullscreen></iframe>
 
 </body>
 </html>
