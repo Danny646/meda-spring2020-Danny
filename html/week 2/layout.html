@@ -6,6 +6,13 @@
 
   <title>Layout</title>
  <style>
+body{
+ background-color:aqua;
+border-color:burlywood;
+background-repeat: round;
+color:rgb(172, 172, 172);
+}
+
 #header {
 background-color:dimgray;
 color:rgb(39, 216, 39);
@@ -14,11 +21,11 @@ font-size:30px;
 margin:auto;
 }
 #footer p{ 
- color:aqua;
+ color:darkorange;
  font-size:14px; 
 }
 #footer h6{
-color:rgb(60, 122, 88);
+color:rgb(10, 90, 83);
 }
 #footer div h6 {
 color:lightsteelblue
@@ -38,9 +45,16 @@ padding-left:0; 12px;
 #main div{
 height:100px;
 background-color:darksalmon
-margin-bottom:10px; 
+margin:0 auto 10px auto; 
+width:15%;
+overflow:auto;
 }
-
+#main .odd{
+background-color:darkslateblue
+}
+#main .event {
+ background-color:darkkhaki; 
+}
 #Food-list{
   list-style-type:none;
 background-color:goldenrod;
@@ -57,6 +71,12 @@ padding:2px;
 text-align:center;
 color:darkred;
 border-color: yellow;
+}
+
+#div{ 
+background-color: darkorchid;
+width:145px;
+height:252px;
 }
 
 </style>
@@ -88,6 +108,11 @@ border-color: yellow;
   <h6> This is really small text.</h6> 
   </div>
 </div>
+<div class="odd">
+  <div class="event">
+  </div> 
+  <div class= "odd">
+ <div> </div>
 <ul id= "food-list">
   <li> Cat Food </li>
   <li> Sushi </li> 
@@ -100,6 +125,9 @@ border-color: yellow;
   <li> Veal </li> 
   <li> Kosher </li> 
 </ul>
+<div id="container">
+
+
 
 <div id="videos">
 <iframe width="200"height="145"
