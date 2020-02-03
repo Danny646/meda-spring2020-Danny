@@ -26,11 +26,17 @@ margin:auto;
  font-size:14px; 
 background-image:"tree-736885_1280.jpg">
 }
-#footer h6{
-color:rgb(10, 90, 83);
+#footer {
+color:rgba(116, 218, 207, 0.623);
+width:900px;
+height:400px;
 }
-#footer div h6 {
-color:lightsteelblue
+#footer.footer-columns{
+width:33.3%;
+height:200px;
+background-color:blueviolet;
+display:inline-block;
+margin: 2px;
 }
 
 #main{ 
@@ -102,18 +108,16 @@ height:108px;
 </div>
 <!--HTML version is <footer> </footer>-->
 <div id= "footer"> 
-  <p> &copy; 2020 <span id ="myname">Dan Goepfert</span> </p>
-</div>
-<h6> This text is really some small text.</h6>
-<div> 
-  <h6> This is really small text.</h6> 
-  </div>
-</div>
-<div class="odd">
-  <div class="event">
+  <div class="footer-columns" id="footer-left">
   </div> 
-  <div class= "odd">
- <div> </div>
+  <div class="footer-columns"id="footer-center">
+  </div> 
+  <div class="footer-columns" id="footer-center">
+  </div> 
+<div class="fotter-columns" id="footer-right">
+</div> 
+</div> 
+
 <ul id= "food-list">
   <li> Cat Food </li>
   <li> Sushi </li> 
