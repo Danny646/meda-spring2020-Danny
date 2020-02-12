@@ -1,0 +1,56 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Flexbox Practiceß</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+<style>
+#my-flexbox {
+ background-color:hotpink;
+ display:flex;
+ flex-direction:row;   
+}
+.flexbox-items {
+   background-color:rgb(93, 85, 103);
+   margin:20px;
+  } 
+#special-item{
+flex-shrink:2;
+ padding:2px;
+ margin:10px;
+ }
+#first-item{
+  order:3;  
+}
+#third-item {
+order:1;
+ }
+#last-item {
+    order:-1;
+    
+}
+</style>
+</head>
+<body>
+
+    <div id="my-flexbox">
+    <div class="flexbox">
+        <div id="special-item">
+        <p> Hello There. 1</p>
+     </div> 
+     <div id= "first-item">
+        <div class="flexbox-items">
+            <p> Hello there, how are you.2 </p>
+        </div>
+        <div id="third-item"> 
+        <p> Hello There!3</p>
+        </div>
+        <div id="last-item">
+         <p> Hello Again!4</p>   
+        </div>
+</body>
+</html>
