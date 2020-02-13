@@ -60,3 +60,41 @@ line-height:48px;
 }
 
 
+#contact-flexbox div:last-child {
+flex-grow:1;
+}
+#contact-form{
+  border:solid red 15px;
+}
+#contact-form label  {
+  font-size:24px;
+border: dashed 5px red;
+width: 400px;
+height:500px;
+border-radius:15px;
+box-sizing:border-box;
+color:red; 
+padding:left:11px;
+}
+#contact-form input{
+border: dashed 10px red;
+width: 400px;
+height:50px;
+border-radius:10px;
+}
+
+#contact-form .form-buttons {
+  margin:20px;
+  color:red;
+  font-size:18px;
+}
+
+#contact-form textarea {
+  border: dashed 5px red;
+  border-radius: 15px;
+  width: 100px;
+  height: 200px;
+  box-sizing: border-box;
+  padding: 11px;
+  color: red;
+}
