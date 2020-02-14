@@ -1,0 +1,49 @@
+Background color I am gonna have Tan on all pages.   For the header, body, and footer I will use black for my text color. link text for all possible link states I will use Black, to keep all my color scenes simple. 
+
+I will use my personal photo for the header photo and the header icon.  I have no restriction for use of my personal photo. 
+
+
+HOME/ABOUT ME PAGE 
+
+Enter text That appear on the about me page ON THE ABOUT ME PAGE HERE.  
+My name is Daniel Goepfert, I am taking this coding class to learn a general description of coding and web design.  I have done projects in the past, one of them most recently a gluten free page, others I did sites on Word press, years ago and I am excited to learn about basic coding. 
+
+I hope to expand my portfolio using my class projects and see and learn outside of class. As I learn more about user x design my portfolio will updated to reflect it.   As I learn more I want to keep things more  simple and clean,  more complicated sites tend to confuse, and annoy people. 
+
+CONTACTS PAGE: 
+
+Email: gvcgop@gmail.com
+
+
+Phone number: (415)555-1212
+
+Address: 5411 Mission Street, San Francisco, CA, 94100
+
+
+PROJECTS PAGE
+Enter text That appear on the  projects page 
+I recently did the hobby site, where I talked about running, and as well paths and trails to take, and mentioned some famous ones.
+
+Personal website 1 review 
+Url
+Likes 
+Dislikes
+Header comments 
+Body comments 
+Footer comments
+ 
+Personal website 2 review 
+Url 
+Likes 
+Dislikes
+Header comments 
+Body comments 
+Footer comments 
+
+Personal website 3 review 
+Url
+Likes 
+Dislikes
+Header comments 
+Body comments 
+Footer comments
