@@ -2,6 +2,7 @@ Background color I am gonna have Tan on all pages.   For the header, body, and f
 
 I will use my personal photo for the header photo and the header icon.  I have no restriction for use of my personal photo. 
 
+Font family will be Helvetica. 
 
 HOME/ABOUT ME PAGE 
 
@@ -25,25 +26,26 @@ Enter text That appear on the  projects page
 I recently did the hobby site, where I talked about running, and as well paths and trails to take, and mentioned some famous ones.
 
 Personal website 1 review 
-Url
-Likes 
-Dislikes
-Header comments 
+Url https://www.melramos.com
+Likes  I like his self photo and like his slideshow pages, once you click on it. I like the fact he has drawings, sketches are right in front  of you 
+Dislikes  His bio is boring, it has a lot of text and no pictures.
+Header comments His header is simple.
 Body comments 
-Footer comments
+Footer comments His footer is simple and there, don't like that  it is small.
  
 Personal website 2 review 
-Url 
-Likes 
-Dislikes
-Header comments 
-Body comments 
-Footer comments 
+Url  https://www.fladzinski.com/#0
+Likes I like that his photos are easy to find. 
+Dislikes I hate his about page there is no picture. 
+Header comments His header is complicated to find, it's annoying.
+Body comments His body is easy to find.
+Footer comments I can't find his footer. 
 
 Personal website 3 review 
-Url
-Likes 
-Dislikes
-Header comments 
-Body comments 
+Url http://holdenhardcastle.com
+Likes:  I like it that his site his Simple and basic. 
+
+Dislikes I hate the blue border, it doesn't go with the colors
+Header comments His header is boring but easy to find
+Body comments Its simple and easy to find.
 Footer comments
