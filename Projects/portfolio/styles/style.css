@@ -1,5 +1,6 @@
 body { 
-  background-color:lightcoral;  
+  background-color:tan;  
+  font-family:  "Helvetica", sans-serif;
 }
 header, main, footer {
 width: 900px;
