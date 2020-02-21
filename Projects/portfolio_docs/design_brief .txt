@@ -1,4 +1,5 @@
 Background color I am gonna have Tan on all pages.   For the header, body, and footer I will use black for my text color. link text for all possible link states I will use Black, to keep all my color scenes simple. 
+
 I will use my personal photo for the header photo.  I have no restriction for use of my personal photo. 
 
 Font family will be Helvetica. 
@@ -47,10 +48,3 @@ Dislikes I hate the blue border, it doesn't go with the colors
 Header comments His header is boring but easy to find
 Body comments Its simple and easy to find.
 Footer comments
-
-
-Change log:
-*2/21/20
-  
-
-Background color for the header main and footer I have chosen the color Khaki. Border for the header and main I have chosen Black, the text align in the main and header I have put center, and the font size I have it at 47 pixels and the line height I have it at 82 pixels.
