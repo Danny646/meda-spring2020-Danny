@@ -1,0 +1,100 @@
+body { 
+  background-color:lightcoral;  
+}
+header, main, footer {
+width: 900px;
+height: 500px;
+background-color: white;
+margin:auto;
+font-size:21px;
+}
+header, main {
+  border-bottom:black 7px solid;  
+border-top:blue 8px solid;
+  font: size 47px;
+text-align:center;
+color:aqua;
+line-height:82px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ header h1{
+     font-family:"Zapfino";
+} 
+ #logo {
+     float:left;
+ }
+ #title-container {
+   margin-left:200px;
+}
+nav ul {
+  background-color:lightseagreen;
+}
+
+nav  ul li {
+  display:inline-block;
+  background-color:red;
+color:white;
+padding:12px;
+margin-top:25px;
+text-transform: uppercase;
+font-family:"Arial";
+text-decoration:none;
+}
+ nav ul li a{
+text-decoration:none;
+ }
+nav ul li a:link, nav ul li a:active {
+  color:white;
+
+nav ul li a:hover {
+  background-color:powderblue;
+ }
+  
+nav ul li a:active { 
+  background-color:chartreuse;
+}
+ footer {
+  color:"lightpink";
+font-family:"Arial";
+line-height:48px;
+}
+
+
+#contact-flexbox div:last-child {
+flex-grow:1;
+}
+#contact-form{
+  border:solid red 15px;
+}
+#contact-form label  {
+  font-size:24px;
+border: dashed 5px red;
+width: 400px;
+height:500px;
+border-radius:15px;
+box-sizing:border-box;
+color:red; 
+padding:left:11px;
+}
+#contact-form input{
+border: dashed 10px red;
+width: 400px;
+height:50px;
+border-radius:10px;
+}
+
+#contact-form .form-buttons {
+  margin:20px;
+  color:red;
+  font-size:18px;
+}
+
+#contact-form textarea {
+  border: dashed 5px red;
+  border-radius: 15px;
+  width: 100px;
+  height: 200px;
+  box-sizing: border-box;
+  padding: 11px;
+  color: red;
+}
