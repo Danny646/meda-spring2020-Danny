@@ -1,6 +1,7 @@
 body { 
   background-color:tan;  
   font-family:  "Helvetica", sans-serif;
+  color:black;
 }
 header, main, footer {
 width: 900px;
@@ -14,12 +15,12 @@ header, main {
 border-top:blue 8px solid;
   font: size 47px;
 text-align:center;
-color:aqua;
+color:black;
 line-height:82px;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
  header h1{
-     font-family:"Zapfino";
+     
 } 
  #logo {
      float:left;
@@ -28,24 +29,23 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    margin-left:200px;
 }
 nav ul {
-  background-color:lightseagreen;
+
 }
 
 nav  ul li {
   display:inline-block;
   background-color:red;
-color:white;
-padding:12px;
-margin-top:25px;
-text-transform: uppercase;
-font-family:"Arial";
-text-decoration:none;
+  padding:19px;
+  margin-top:25px;
+  text-transform: uppercase;
+  text-decoration:none;
+  font-weight: bold;
 }
  nav ul li a{
 text-decoration:none;
  }
 nav ul li a:link, nav ul li a:active {
-  color:white;
+  color:silver;
 
 nav ul li a:hover {
   background-color:powderblue;
