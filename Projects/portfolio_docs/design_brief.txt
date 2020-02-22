@@ -50,7 +50,7 @@ Footer comments
 
 
 Change log:
-*2/21/20
+*02/21/20
   
 
 Background color for the header main and footer I have chosen the color Khaki. Border for the header and main I have chosen Black, the text align in the main and header I have put center, and the font size I have it at 47 pixels and the line height I have it at 82 pixels.
