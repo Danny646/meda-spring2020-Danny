@@ -16,7 +16,7 @@ console.log(total);
 var radius = 5000;
 var diameterofcircle= 2*radius;
 var perimeterofcircle = 3.14159265359*diameterofcircle;
-console.log("The diameter of the circle with a radius of"+radius. +"is"+diameterofcircle+".The + perimeter of the circle is "+perimeterofcircle);
+console.log("The diameter of the circle with a radius of"+radius.+"is"+diameterofcircle+".The + perimeter of the circle is "+perimeterofcircle);
 
 
 //Rounds to the nearest whole#
@@ -26,3 +26,12 @@ console.log(rounded);
 var Roundedup=Math.ceil(45.1);
 //Round down
 var roundeddown = Math.floor(45.9);
+var somenumber=(Math.random()*100)+1;
+var roundedrandomnumber= Math.floor(somenumber);
+//or Use the existing variable:
+//Somenumber= Math.floor(somenumber);
+console.log(somenumber);
+//print random number.
+console.log(roundedrandomnumber);
+
+
