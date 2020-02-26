@@ -1,9 +1,12 @@
+var myFirstVar = 1000;
+
 var yearsleft = 1000;
 //Units in meters
 var buildingheight=100;
 var humanage=16;
 var humanagedays = 5840;
 var daysayear = 365;
+
 //Equal sign, everything on the right side always happens first. 
 var sum = 100*50;
 var product = 50*50;
@@ -32,6 +35,13 @@ var roundedrandomnumber= Math.floor(somenumber);
 //Somenumber= Math.floor(somenumber);
 console.log(somenumber);
 //print random number.
+//Defining multiple variables
+var variableA, variableB;
+//Declarring multiple variables as well as initiilazing
+var variable1 = "10", variable2 =100, variable3=true
 console.log(roundedrandomnumber);
-
-
+var variable= "10", variable2 = 100, variable3=true
+console.log(variable2);
+//CAlling before defining 
+console.log(coolvariable);
+varaible1= coolvariable;
