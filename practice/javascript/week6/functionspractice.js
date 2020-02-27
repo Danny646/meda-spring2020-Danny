@@ -32,3 +32,9 @@ console.log( bestnumber)+100;
 console.log(newnumber);
 var results = bestnumber(/50);
 console.log(results);  
+
+function get name(){
+var firstname = "Danny";
+return firstname;
+
+getname()+ "is a person");
