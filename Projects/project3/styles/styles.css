@@ -1,17 +1,29 @@
 body {
     background-color:tan;
 font-family: Helvetica, sans-serif
+color:black;
 
+}
+#trail{
+ position:absolute;
+top:0;
+right:0;
+}
+ #headshotcollaredshirt {
+position:fixed;
+top:12;
+margin:200;
+ 
 }
 
 header, main, footer {
     width: 900px;
-    margin: 50 auto;
-    padding: 50px;
-    font-size: 36px;
-    
+    height: 500px;
+    background-color:khaki;
+    margin:auto;
+    font-size:17px;
+    text-align:right;  
 }
-
 /* HEADER STYLES START */
 
 header {
@@ -19,22 +31,25 @@ header {
     width: 950px;
 }
 
-header, main {
- 
+header, main, footer {
+ border-bottom:black 7px solid;
+border-top:black 7px solid; 
+text-align:center; 
+color:black;
+line-height:82px;
 }   
 header h1 {
     font-size: 48px;
-    text-align: center;
+    text-align: left;
     line-height: 84px;
 }
 
-#logo {
-    float: left;
-}
 
 #title-container {
     margin-left: 200px;
+    padding:25px;
 }
+
 
 nav ul {
     text-align: right;
@@ -52,24 +67,28 @@ nav ul li {
 
 nav ul li:hover {
     background-color: coral;
-
+   padding:42px;
 }
 
 nav ul li a {
     text-decoration: none;
-background-color:red;
-
-
+    background-color:red;
+    width:180px;
+    height:125px;
 }
 
 nav ul li a:link {
-    color: silver;
+    color: black;
 background-color:red;
+width:180px;
+height:120px;
+padding:25px;
 }
 
 nav ul li a:visited {
-    color:silver;
+    color:black;
     background-color:red;
+    
 }
 
 nav ul li a:hover {
@@ -87,6 +106,7 @@ nav ul li a:active {
 footer {
     color: turquoise;
     line-height: 48px;
+
 }
 
 
@@ -192,54 +212,21 @@ main p {
     display: flex;
 }
 
-#contact-flexbox div:first-child {
-    flex-grow: 3;
-}
+<img src="images/IMG_headshot.jpg" alt="otherheadshot" height="150"/>
+ <div id="social-links">
+    <ul>
+        <li><a href="https://www.github.com"><i class="fab fa-github"></i> GitHub</a></li>
+        <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a></li>
 
-#contact-flexbox div:last-child {
-    flex-grow: 1;
-}
+  <footer>
 
-#contact-form {
-    width: 400px;
-    margin: 20px;
-}
 
-#contact-form label {
-    font-size: 24px;
-}
+</main>
 
-#contact-form input {
-    border: dashed 5px turquoise;
-    width: 400px;
-    height: 50px;
-    border-radius: 15px;
-    box-sizing: border-box;
-    font-size: 18px;
-    color: turquoise;
-    padding-left: 11px;
-}
 
-#contact-form .form-buttons {
-    margin: 20px;
-    color: turquoise;
-    font-size: 18px;
-    width: 360px;
-}
 
-#contact-form .form-buttons:hover {
-    border: solid turquoise 5px;
-    cursor: pointer;
-}
+        
+    </ul>
+</div>
 
-#contact-form textarea {
-    border: dashed 5px turquoise;
-    border-radius: 15px;
-    width: 100%;
-    max-width: 400px;
-    height: 200px;
-    box-sizing: border-box;
-    padding: 11px;
-    font-size: 18px;
-    color: turquoise;
-}
+</footer>

@@ -1,0 +1,112 @@
+body { 
+  background-color:tan;  
+  font-family:  "Helvetica", sans-serif;
+  color:black;
+ 
+}
+#trail{
+  position:absolute;
+ top:0;
+ right:0;
+ }
+  
+
+header, main, footer {
+  width: 900px;
+  height: 500px;
+  background-color:khaki;
+  margin:auto;
+  font-size:17px;
+ text-align:right;
+
+
+}
+header, main {
+  border-bottom:black 7px solid;  
+  border-top:black 8px solid;
+  font-size: 48px;
+  text-align:center;
+  color:black;
+  line-height:82px;
+}
+ header h1{
+    
+} 
+ 
+
+ 
+ #title-container {
+   margin-left:100px;
+}
+nav ul {
+
+}
+
+nav  ul li {
+ display:inline-block;
+  background-color:red;
+  width:170px;
+  height:120px;
+  text-transform: uppercase;
+  font-size:18px;
+  color:black;
+   
+}
+nav ul li a {
+ background-color:red;
+ color:black;
+ width:170px;
+ height:120px;
+ font-size:18px;
+
+}
+nav ul li a:link, nav ul li a:active {
+  color:black;
+}
+nav ul li a:hover {
+  background-color:coral;
+ }
+  
+nav ul li a:active { 
+  
+}
+footer {
+  color:turquoise;
+  line-height:48px;
+}
+#contact-flexbox div:last-child {
+  flex-grow:1;
+}
+#contact-form {
+  border:solid turquoise; 15px;
+}
+#contact-form label {
+  font-size:18px;
+  border: dashed 5px red;
+  width: 200px;
+  height: 254px;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: red; 
+  padding-left: 11px;
+}
+#contact-form input {
+  border: dashed 10px turquoise;
+  width: 400px;
+  height:50px;
+  border-radius:10px;
+}
+#contact-form .form-buttons {
+  margin:20px;
+  color:turquoise;
+  font-size:18px;
+}
+#contact-form textarea {
+  border: dashed 5px turquoise;
+  border-radius: 15px;
+  width: 100px;
+  height: 200px;
+  box-sizing: border-box;
+  padding: 11px;
+  color:turquoise;
+}
