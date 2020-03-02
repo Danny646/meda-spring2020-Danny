@@ -9,7 +9,7 @@ body {
  top:0;
  right:0;
  }
-  
+ 
 
 header, main, footer {
   width: 900px;
@@ -110,3 +110,8 @@ footer {
   padding: 11px;
   color:turquoise;
 }
+
+#portrait { 
+  top:0;
+  float:left;
+  }
