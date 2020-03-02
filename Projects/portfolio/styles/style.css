@@ -2,13 +2,24 @@ body {
   background-color:tan;  
   font-family:  "Helvetica", sans-serif;
   color:black;
+ 
 }
+#trail{
+  position:absolute;
+ top:0;
+ right:0;
+ }
+  
+
 header, main, footer {
   width: 900px;
   height: 500px;
   background-color:khaki;
   margin:auto;
-  font-size:21px;
+  font-size:17px;
+ text-align:right;
+
+
 }
 header, main {
   border-bottom:black 7px solid;  
@@ -21,75 +32,81 @@ header, main {
  header h1{
     
 } 
- #logo {
-     float:left;
- }
+ 
+
+ 
  #title-container {
-   margin-left:200px;
+   margin-left:100px;
 }
 nav ul {
 
 }
 
 nav  ul li {
-  display:inline-block;
+ display:inline-block;
   background-color:red;
-  padding:19px;
-  margin-top:25px;
+  width:170px;
+  height:120px;
   text-transform: uppercase;
-  text-decoration:none;
-  font-weight: bold;
+  font-size:18px;
+  color:black;
+   
 }
 nav ul li a {
-  text-decoration:none;
- }
+ background-color:red;
+ color:black;
+ width:170px;
+ height:120px;
+ font-size:18px;
+
+}
 nav ul li a:link, nav ul li a:active {
-  color:silver;
+  color:black;
 }
 nav ul li a:hover {
-  background-color:powderblue;
+  background-color:coral;
  }
   
 nav ul li a:active { 
-  background-color:chartreuse;
+  
 }
 footer {
-  color:lightpink;
+  color:turquoise;
   line-height:48px;
 }
 #contact-flexbox div:last-child {
   flex-grow:1;
 }
 #contact-form {
-  border:solid red 15px;
+  border:solid turquoise; 15px;
 }
 #contact-form label {
-  font-size:24px;
+  font-size:18px;
   border: dashed 5px red;
-  width: 400px;
-  height: 500px;
+  width: 200px;
+  height: 254px;
   border-radius: 15px;
   box-sizing: border-box;
   color: red; 
   padding-left: 11px;
 }
 #contact-form input {
-  border: dashed 10px red;
+  border: dashed 10px turquoise;
   width: 400px;
   height:50px;
   border-radius:10px;
 }
 #contact-form .form-buttons {
   margin:20px;
-  color:red;
+  color:turquoise;
   font-size:18px;
 }
 #contact-form textarea {
-  border: dashed 5px red;
+  border: dashed 5px turquoise;
   border-radius: 15px;
   width: 100px;
   height: 200px;
   box-sizing: border-box;
   padding: 11px;
-  color: red;
+  color:turquoise;
 }
