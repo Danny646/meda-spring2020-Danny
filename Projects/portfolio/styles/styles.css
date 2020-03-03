@@ -9,13 +9,7 @@ color:black;
 top:0;
 right:0;
 }
- #headshotcollaredshirt {
-position:fixed;
-top:12;
-margin:200;
  
-}
-
 header, main, footer {
     width: 900px;
     height: 500px;
@@ -212,3 +206,7 @@ main p {
     display: flex;
 }
 
+#portrait { 
+    top:0;
+    float:left;
+    }
