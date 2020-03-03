@@ -21,7 +21,7 @@ Address: 5411 Mission Street, San Francisco, CA, 94100
 
 PROJECTS PAGE
 Enter text That appear on the  projects page 
-I recently did the hobby site, where I talked about running, and as well paths and trails to take, and mentioned some famous ones.
+I recently did the hobby site, where I talked about running, and as well paths and trails to take, and mentioned some famous ones. 
 
 Personal website 1 review 
 Url https://www.melramos.com
@@ -53,4 +53,4 @@ Change log:
 *02/21/20
   
 
-Background color for the header main and footer  for all pages  I have chosen the color Khaki. As well as, I have chosen for the  Border, the header and main I have chosen Black, the text align in the main and header I have put center, and the font  And for the Home Page/About me I do have a list of these three referal links , and on the Home/About me Page I have social media links on the right side, it's underneath the other headshot image, and the nav links on Home About Me page it's on the bottom, on  projects and contact page I have it on the right side on top.
+Background color for the header main and footer  for all pages  I have chosen the color Khaki. As well as, I have chosen for the  Border, the header and main I have chosen Black, the text align in the main and header I have put center, and the font  And for the Home Page/About me I do have a list of these three referal links , and on the Home/About me Page I have social media links on the right side, it's underneath the other headshot image, and it's got fab fa web fonts, its purple, for the contacts page and the projects page I have same fontstyle but the color is Turqoise, and it's in the footer, and the nav links on Home About Me page it's centtered on the top, in the header, on  projects and contact page I have it on the right side,not on the bottom.
